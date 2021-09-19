@@ -21,3 +21,6 @@ print(type(len("Hello")))
 
 #convert types (int to string)
 str(len("hello"))
+
+#round a number
+print(round(4332.1231, 2))
